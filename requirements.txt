@@ -1,3 +1,7 @@
 firebase-admin
 pandas
 Flask
+pytz
+numpy
+scikit-learn
+gunicorn
